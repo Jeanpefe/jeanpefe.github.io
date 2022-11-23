@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Caso Práctico Pandas
+published: true
 date: 2022-11-24
 classes: wide
 header:
