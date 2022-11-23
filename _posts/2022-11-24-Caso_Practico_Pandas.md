@@ -1,3 +1,20 @@
+---
+layout: single
+title: Caso Práctico Pandas
+date: 2022-11-24
+classes: wide
+header:
+  teaser: /assets/images/slae32.png
+categories:
+  - slae
+  - infosec
+tags:
+  - slae
+  - assembly
+  - tcp bind shellcode
+---
+
+
 https://www.youtube.com/watch?v=eMOA1pPVUc4&t=375s
 
 https://github.com/KeithGalli/Pandas-Data-Science-Tasks
